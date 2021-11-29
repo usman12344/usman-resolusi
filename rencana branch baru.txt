@@ -7,14 +7,11 @@ ini adalah branch baruuuu
 5
 6
 7 struktur dasarrr
-7 fitur 1
-7 fitur 1 lagi
-8
+8 fitur 2
+8 fitur 2 lagi
 9
 10
 11
 12
 13
-14
-15
 
